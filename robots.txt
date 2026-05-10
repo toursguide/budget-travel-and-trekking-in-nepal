@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://budget-travel-and-trekking-in-nepal.vercel.app/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
